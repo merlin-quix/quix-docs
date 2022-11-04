@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: Manually Build Static Doc Files
+name: Rebuild Static Doc Files on Push
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
