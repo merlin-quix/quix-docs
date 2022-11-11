@@ -2,7 +2,7 @@
 
 ## Tutorials
  
-Try our guides to help you build data-driven apps and integrate Quix with external systems.
+Try our guides to help you build data-driven apps and integrate Quix with external systems. Testy test test-
 
 <div class="grid cards" markdown>
 
