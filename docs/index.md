@@ -27,7 +27,7 @@ Try our guides to help you build data-driven apps and integrate Quix with extern
 
 ## Core resources
 
-Take a look under the hood and get to know our SDK and APIs
+Take a look under the hood and get to know our SDK and APIs. Blah blah blah.
 
 <div class="grid cards" markdown>
 
